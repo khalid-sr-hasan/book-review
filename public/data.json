@@ -1,0 +1,80 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "Survive The Drive",
+        "author": "Junkybooks",
+        "image": "https://i.ibb.co/fpLCqtB/book1.jpg",
+        "review": "George Orwell's '1984' stands as a chilling testament to the perils of totalitarianism. Set in a dystopian future where government surveillance is omnipresent, Orwell's narrative grips readers with its stark portrayal of oppression and thought control. The protagonist, Winston Smith, navigates a world where truth is subjective and rebellion is met with severe consequences. Orwell's prose is sharp and incisive, painting a bleak yet compelling picture of a society devoid of freedom. With themes of censorship, propaganda, and the erosion of individual rights, '1984' remains a haunting reflection on the dangers of unchecked authority.",
+        "totalPages": 236,
+        "rating": 4.5,
+        "category": "Mystery",
+        "tags": ["Suspense", "Psychological"],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+    },
+    {
+        "bookId": 2,
+        "bookName": "Control Your Life",
+        "author": "Tara Westover",
+        "image": "https://i.ibb.co/3WxF0fM/book2.jpg",
+        "review": "Harper Lee's 'To Kill a Mockingbird' is a timeless classic that explores themes of racial injustice and moral growth in the American South. Through the eyes of young Scout Finch, readers are transported to a town grappling with prejudice and discrimination. The character of Atticus Finch serves as a beacon of integrity in a society plagued by bigotry, while the trial of Tom Robinson exposes the ugliness of racism. Lee's prose is both poignant and evocative, capturing the innocence of childhood alongside the harsh realities of adulthood. 'To Kill a Mockingbird' remains as relevant today as it was upon its publication, reminding us of the enduring power of empathy and compassion.",
+        "totalPages": 334,
+        "rating": 4.6,
+        "category": "Biography",
+        "tags": ["Memoir", "Inspiration"],
+        "publisher": "Random House",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 3,
+        "bookName": "National Curriculum",
+        "author": "Erin Morgenstern",
+        "image": "https://i.ibb.co/SxHwPkB/book3.jpg",
+        "review": "F. Scott Fitzgerald's 'The Great Gatsby' is a dazzling portrayal of the Jazz Age, exploring themes of love, wealth, and identity. Set against the backdrop of the Roaring Twenties, the novel follows the enigmatic Jay Gatsby as he pursues the elusive Daisy Buchanan. Fitzgerald's prose is elegant and lyrical, capturing the decadence and disillusionment of the era with precision. Through vivid imagery and complex characters, 'The Great Gatsby' delves into the hollow pursuit of the American Dream and the emptiness that lies beneath the surface of wealth and privilege. A timeless classic, this novel continues to captivate readers with its exploration of ambition, betrayal, and the fleeting nature of happiness.",
+        "totalPages": 470,
+        "rating": 4.3,
+        "category": "Fantasy",
+        "tags": ["Magic", "Romance"],
+        "publisher": "Doubleday",
+        "yearOfPublishing": 2011
+    },
+    {
+        "bookId": 4,
+        "bookName": "Encyclopedia Of Biology",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co/R4NsKCj/book4.jpg",
+        "review": "J.D. Salinger's 'The Catcher in the Rye' is a poignant coming-of-age novel that resonates with readers of all ages. Narrated by the disillusioned teenager Holden Caulfield, the novel offers a raw and unfiltered glimpse into the struggles of adolescence. As Holden navigates the complexities of identity and authenticity, readers are drawn into a world of alienation and angst. Salinger's prose is sharp and incisive, capturing the voice of a generation grappling with the transition to adulthood. Through Holden's encounters with phoniness and hypocrisy, the novel explores themes of innocence, alienation, and the search for meaning in a world that often seems indifferent. 'The Catcher in the Rye' remains a timeless classic, reminding us of the universal challenges of growing up and finding our place in the world.",
+        "totalPages": 410,
+        "rating": 4.0,
+        "category": "Classic",
+        "tags": ["Roaring Twenties", "Literature"],
+        "publisher": "Charles Scribner's Sons",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 5,
+        "bookName": "Encyclopedia Of Chemistry",
+        "author": "Paulo Coelho",
+        "image": "https://i.ibb.co/cT1mr5d/book5.jpg",
+        "review": "J.D. Salinger's 'The Catcher in the Rye' is a poignant coming-of-age novel that resonates with readers of all ages. Narrated by the disillusioned teenager Holden Caulfield, the novel offers a raw and unfiltered glimpse into the struggles of adolescence. As Holden navigates the complexities of identity and authenticity, readers are drawn into a world of alienation and angst. Salinger's prose is sharp and incisive, capturing the voice of a generation grappling with the transition to adulthood. Through Holden's encounters with phoniness and hypocrisy, the novel explores themes of innocence, alienation, and the search for meaning in a world that often seems indifferent. 'The Catcher in the Rye' remains a timeless classic, reminding us of the universal challenges of growing up and finding our place in the world.",
+        "totalPages": 308,
+        "rating": 4.4,
+        "category": "Fiction",
+        "tags": ["Adventure", "Spirituality"],
+        "publisher": "HarperCollins",
+        "yearOfPublishing": 1988
+    },
+    {
+        "bookId": 6,
+        "bookName": "Essentials Of Inorganic",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co/gPt4wFv/book6.jpg",
+        "review": "Jane Austen's 'Pride and Prejudice' is a timeless romance that continues to enchant readers with its wit and charm. Set in the early 19th century, the novel follows the spirited Elizabeth Bennet as she navigates the complexities of love and class in Regency-era England. Through Austen's sharp social commentary and delightful characters, 'Pride and Prejudice' explores the intricacies of courtship and the importance of overcoming prejudice. The relationship between Elizabeth and the enigmatic Mr. Darcy is both captivating and heartwarming, as they navigate misunderstandings and societal expectations to find true love. Austen's prose is as elegant as it is humorous, drawing readers into a world of grand estates, society balls, and romantic intrigue. A beloved classic, 'Pride and Prejudice' remains a testament to the enduring power of love and the triumph of character over circumstance.",
+        "totalPages": 181,
+        "rating": 4.7,
+        "category": "Literary Fiction",
+        "tags": ["Social Justice", "Coming of Age"],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    }
+]
